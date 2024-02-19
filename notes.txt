@@ -1,0 +1,39 @@
+file handling:
+creating
+reading
+updating
+delete
+
+read()
+
+open() -> base of file operations
+        returns an object
+        open(filename or pathofthefile)
+        open(filename , mode)
+
+mode -> read mode "r"
+        open("file.txt","r")
+        by default open() uses read mode if not specified
+        returns error if there is no file
+
+    -> append mode "a"
+    adding the data to the existing data
+    if file is not found it creates the file and append the contents to the file
+
+    -> write mode "w"
+    overiddes the data with the data provided
+    previous data is removed
+
+    -> create mode "x"
+    creates an empty file
+    if the file is already present it returns an error
+
+    -> text mode "t"
+    by default enabled
+    used for reading text files
+
+    -> binary mode "b"
+    for reading media data , images
+
+
+    read and text are by default "rt"
