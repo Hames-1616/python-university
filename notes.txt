@@ -37,3 +37,12 @@ mode -> read mode "r"
 
 
     read and text are by default "rt"
+
+OS module can be used for wrong purposes by hackers too
+
+OOPS - python
+Class -> blueprint,aggregation of variables and methods
+__init__
+self parameter is a difference to the current instance of the class and is used to access variables that belong to the class
+
+the str controls what should be returned when the class object is represented as a string
