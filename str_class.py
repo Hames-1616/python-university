@@ -5,7 +5,7 @@ class student:
         self.roll = roll
 
     def __str__(self):
-        return f"{self.name} ({self.roll})"
+        print(self.name)
 
 s = student("amir",90)
-print(s.__str__())
+s.__str__()
