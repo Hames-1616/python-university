@@ -54,5 +54,5 @@ method Overriding
 
 access Modifier
         -> public -
-        -> private -
+        -> private - double underscore(__) for private 
         -> protected -
