@@ -1,2 +1,2 @@
-print(f.read())
-# print(f.read(10)) # reads 10 characters
+def __init__(self, r, n):
+        Student(self).__init__(r, n)
