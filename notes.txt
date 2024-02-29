@@ -62,3 +62,8 @@ overloading is a type of polymorphism that adds additional functionalities for t
  -> varying datatypes of parameters
  -> varying number of arguments
  -> methods overloading in case of parameters is not supported in python
+
+
+List,String,tuple,dict are iterable
+
+iter() and next()
