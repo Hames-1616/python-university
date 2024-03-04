@@ -67,3 +67,11 @@ overloading is a type of polymorphism that adds additional functionalities for t
 List,String,tuple,dict are iterable
 
 iter() and next()
+
+numpy()
+for array a particular localized block is established
+
+can be made by importin array and then making it
+an array that has 0d arrays as its elements is callled unidimensional array /1-d array
+1d 2d array
+2d 3d array
