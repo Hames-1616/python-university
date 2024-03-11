@@ -75,3 +75,13 @@ can be made by importin array and then making it
 an array that has 0d arrays as its elements is callled unidimensional array /1-d array
 1d 2d array
 2d 3d array
+
+
+np.arrage()
+np.linspace(start,stop,num,endpoint) -> endpoint is by default false , whether to include stop in it or not
+parameter for linspace
+retstep - > returns step size
+dtype -> datatype
+axis -> 
+
+axis 0 |       axis 1 ->
