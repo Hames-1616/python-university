@@ -85,3 +85,10 @@ dtype -> datatype
 axis -> 
 
 axis 0 |       axis 1 ->
+
+pandas 
+        -> python data analysis
+        -> analyzing
+        -> exploring
+        -> manipulating data
+        

@@ -1,2 +1,3 @@
-def __init__(self, r, n):
-        Student(self).__init__(r, n)
+f=p.read_csv("present.csv")
+# print(f)
+# print(f.to_string)
