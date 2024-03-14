@@ -92,3 +92,9 @@ pandas
         -> exploring
         -> manipulating data
         
+
+Data Cleaning
+        -> empty cells
+        -> wrong format
+        -> wrong data
+        -> duplicates
