@@ -98,3 +98,12 @@ Data Cleaning
         -> wrong format
         -> wrong data
         -> duplicates
+
+random numbers
+numpy -> random
+
+ramdom data distribution
+        -> probability density function - data generated at what continuous motion
+        -> random distribution is a set of random numbers that follows a certain probability density function
+        -> probability density function is a fxn that describes a continuous probability ie probability of all values in an array
+        

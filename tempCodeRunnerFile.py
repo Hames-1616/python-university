@@ -1,3 +1,1 @@
-f=p.read_csv("present.csv")
-# print(f)
-# print(f.to_string)
+sn.kdeplot([0,1,2,3,4,5])
